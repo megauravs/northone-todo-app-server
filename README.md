@@ -31,7 +31,8 @@ TABLE "todos" (
 
 # Testing the REST API controller
 ```
-I also thought of adding a unit test for all routes using mocha and chai but because of time restrictions, I decided not to add this time but certainly I will add that in the future.
+I also thought of adding a unit test for all routes using mocha and chai but because of time restrictions, 
+I decided not to add this time but certainly I will add that in the future.
 
 ```
 
