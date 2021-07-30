@@ -11,11 +11,11 @@ I decided to build a REST API service with Node.js, Express and MongoDB.
 ```
 1. Install Dependencies
 
-*npm install
+npm install
 
 2. Start the server
 
-*npm start
+npm start
 
 ```
 
