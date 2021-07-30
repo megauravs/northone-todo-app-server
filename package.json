@@ -1,0 +1,32 @@
+{
+  "name": "northone-todo-app-server",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Create your TODOs quickly. Organize and keep track of all your activities.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha --timeout 10000"
+  },
+  "keywords": [
+    "RestAPI",
+    "Express",
+    "MongoDB",
+    "Mongoose",
+    "TODO"
+  ],
+  "author": "Gaurav Shinde",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.0.3"
+  }
+}
